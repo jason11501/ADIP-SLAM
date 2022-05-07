@@ -2,5 +2,4 @@
 ## Result
 <p align="center" >
    <img src="https://github.com/jason11501/ADIP/blob/main/map.png" ><br>
-   register screen
 </p>

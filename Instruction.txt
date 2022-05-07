@@ -1,4 +1,0 @@
-Sau khi giải nén thư mục, tiến hành thay đổi path dẫn tới thư mục .dataset\sequences\00\image_0 chứa tập data về hình ảnh của môi trường
-trong file slam.py.
-Tiếp theo ta thay đổi path dẫn tới thư mục chứa dữ liệu grouth truth dẫn tới file .dataset\sequences\00\image_0\00.txt trong file slam.py. 
-Sau đó ta chạy file slam.py sẽ thu được kết quả về việc xây dựng bản đồ từ tập dữ liệu hình ảnh.

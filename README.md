@@ -1,5 +1,5 @@
 # Định vị và tái tạo môi trường xung quanh (SLAM)
-# Tiến độ 75%
+# Tiến độ 70%
 ## Install environments
 **Công cụ (Tool):**<br>
 * Visual Studio Code

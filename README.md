@@ -15,3 +15,8 @@ https://drive.google.com/drive/folders/14OYK-gm-28tIER1PT6JBhjgaRnq3vX4y?usp=sha
 
 # Video bài giảng
 https://youtu.be/2Zd3wCsRnwY
+
+## real-time
+https://youtu.be/EX5d3sjTI0w?si=1pWSsDsYmAVBfzIn
+
+https://github.com/kevin-robb/orb_slam_implementation
